@@ -70,6 +70,7 @@ checks to hide are made with advantage.
 
 -  [Bonebreaker Tom (a Cloud Giant, CR 10)](https://a5e.tools/node/1633)
    -  Has changed out of his silk robe into a fine suit
+   -  Wearing a fine silver necklace (woth 100 gp) with the vault key
 -  Mrs Tina Bonebreaker (also a Cloud Giant)
    -  Wearing a nice house dress
 -  Mildred, the goose who laid the golen egg
@@ -81,6 +82,16 @@ checks to hide are made with advantage.
    -  Lives in the basement
    -  Constantly trying to steal the cheese from the rat traps
 
+### Encounters
+
+In each room, roll an encounter die. If there is an encounter, roll again to
+see which group appears.
+
+-  Servants: A group of 1d4 servants comes in.
+-  Tom, Tina: Tom and/or Tina arrives.
+-  Mildred: Mildred waddles in. If Mildred sees the players (perception DC 10),
+   immediately begins honking loudly.
+
 ### Rooms
 
 #### Entry Hall
@@ -88,7 +99,7 @@ checks to hide are made with advantage.
 A two-story room with a balcony, this is where the main door is located. A
 stairwell leads to the balcony and the second floor.
 
-encounters: servants, Tom, Tina, Mildred
+Encounters: servants, Tom, Tina, Mildred
 
 #### Dining Hall
 
@@ -96,15 +107,15 @@ A long table surrounded by benches. A fireplace is in the south wall, shared
 with the kitchen.
 
 The walls are covered with six tapestries showing the history of the giants
-(worth 200 GP each)
+(worth 200 GP each).
 
-encounters: servants eating, Tom and Tina eating, Mildred
+Encounters: servants eating, Tom and Tina eating, Mildred
 
 #### Kitchen
 
 Giant ovens make this room unbearably warm. There is a back door and stairs down to the cellar.
 
-encounters: servants cooking, Tina, Mildred
+Encounters: servants cooking, Tina, Mildred
 
 #### Barracks
 
@@ -117,7 +128,7 @@ Rows of beds for the servants to sleep. Upon searching, find some of the followi
 5. A letter from the servant's home: they miss him and want him to return
 6. A letter to a rival cloud giant: the servant is a spy!
 
-encounters: lots of servants, Mildred
+Encounters: lots of servants (2d6), Mildred
 
 #### Armory
 
@@ -125,7 +136,7 @@ The armory is full of giant-sized weapons and armor. Tom has a set of
 masterwork plate mail that would be worth 5000 gp if it could be moved and sold
 (weighs 200 lbs).
 
-The bell of St Olvard is here by default.
+The Bell of St Olvard is here.
 
 Encounters: Servants, Tom, Mildred
 
@@ -135,34 +146,41 @@ Outside the main castle are mews for the [wyverns (CR
 6)](https://a5e.tools/node/1823) and a kennel for the [giant hounds (as winter
 wolf, CR 3)](https://a5e.tools/node/2008).
 
-encounters: wyverns, hounds, servants, Tom
+Encounters: wyverns, hounds, servants, Tom
 
 #### Solarium
 
 The solarium has had part of the roof replaced with glass, and is full of tubs
 of soil growing giant flowers.
 
-some kind of trap
+There is a [brown mold trap](https://a5e.tools/node/2726) in one corner of the
+room: that corner is exceptionally cold.
 
-encounters: servants, Tina
+Encounters: servants, Tina
 
 #### Trophy Room
 
 Holds trophies of Tom's hunts. The walls are covered with the heads of deer,
 peryton, and even a young red dragon (worth 500 gp to a collector).
 
-some kind of trap
+There is a large birdcage here, with a halfling bard (level 3) trapped inside.
+The key is in the Bedroom.
 
-encounters: servants, Tom, Mildred
+Encounters: servants, Tom, Mildred
 
 #### Sewing Room
 
 A large loom sits here, along with many bolts of finished cloth, and a few
 dummies with partially sewn clothes.
 
-some kind of trap
+Thrad runs back and forth from the looms. Anyone moving through the room needs
+to make a Dexterity save. On a failure, they become entangled in the yarn and
+need to extract themselves (or get help). To extract, make a DC 15 check (any
+applicable skill), but on a failure the loom is loudly knocked over.
 
-encounters: Tina
+On the far wall is a bolt of silk worth 200 GP.
+
+Encounters: servants, Tina
 
 #### Guest Rooms
 
@@ -173,7 +191,7 @@ Rooms for guests to stay in. Searching yields the following:
 3. A set of giant-sized bracers of archery
 4. A bowl of commanding water elementals
 
-encounters: a guest cloud giant, servants, Mildred
+Encounters: a guest cloud giant, servants, Mildred
 
 #### Bedroom
 
@@ -183,16 +201,20 @@ Tom and Tina's bedroom. Very fine, giant-sized furniture.
 2. A large diamond (worth 1000 gp)
 3. A letter from Tom's Storm Giant overlord
 4. A [bag of beans](https://a5e.tools/node/830)
+5. The key to the birdcage in the Trophy Room.
+6. A copy of Large Richard's Almanac, useful for planning the planting and
+   harvest if giant-sized vegetables.
 
-encounters: Tom, Tina, Servants, Mildred
+Encounters: Tom, Tina, Servants, Mildred
 
 #### Vault
 
-Locked, only key is around Tom's neck.
+Locked, only key is around Tom's neck. The lock is spelled, if someone tries to
+force it or pick it, it begins to scream (DC 15 to notice, DC 15 to dispell).
 
 Where Tom stores his wealth: mostly cloudsilver, also gems and gold. Total worth is 10,000 GP.
 
-encounters: Tom, Mildred
+Encounters: Tom, Mildred
 
 #### Cellar
 
@@ -204,5 +226,7 @@ The cellar is also home to a tribe of ratlings, who snuck in to steal from the
 pantry and stayed. They are constantly moving around, trying to not get too far
 from the pantry but also to avoid the traps.
 
-encounters: ratlings, servants, Mildred
+Traps: [ratling trap](https://a5e.tools/node/2794)
+
+Encounters: ratlings, servants, Mildred
 
