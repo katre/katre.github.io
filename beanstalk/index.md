@@ -10,7 +10,7 @@ Before each encounter, have party make a group Athletics check to climb:
 
 - On a critical success, they get a hint about the next encounter.
 - On a success, they climb with no problems.
-- On a failure, they fall and make enough noice to force a bonus encounter.
+- On a failure, they fall and make enough noise to force a bonus encounter.
 
 ### Encounters
 
@@ -59,7 +59,7 @@ farmhands are armed with giant hoes and shovels.
 ## Phase 3: The Castle
 
 The castle is, in fact, a giant castle: the doors and windows are sized for
-people who are 20 feet tall. The castle ha two visible stories and a basement,
+people who are 20 feet tall. The castle has two visible stories and a basement,
 which is accessible by a (giant-sized) cellar door on the far side of the
 castle.
 
@@ -173,7 +173,7 @@ Encounters: servants, Tom, Mildred
 A large loom sits here, along with many bolts of finished cloth, and a few
 dummies with partially sewn clothes.
 
-Thrad runs back and forth from the looms. Anyone moving through the room needs
+Thread runs back and forth from the looms. Anyone moving through the room needs
 to make a Dexterity save. On a failure, they become entangled in the yarn and
 need to extract themselves (or get help). To extract, make a DC 15 check (any
 applicable skill), but on a failure the loom is loudly knocked over.
@@ -203,7 +203,7 @@ Tom and Tina's bedroom. Very fine, giant-sized furniture.
 4. A [bag of beans](https://a5e.tools/node/830)
 5. The key to the birdcage in the Trophy Room.
 6. A copy of Large Richard's Almanac, useful for planning the planting and
-   harvest if giant-sized vegetables.
+   harvest of giant-sized vegetables.
 
 Encounters: Tom, Tina, Servants, Mildred
 
@@ -221,6 +221,10 @@ Encounters: Tom, Mildred
 The cellar is partially storage for everything not needed upstairs, and
 partially a pantry for the kitchen. The area is a maze of junk pils and
 cloth-covered furniture. Roll Perception (DC 15) or get lost.
+
+The cellar door is very heavy: DC 20 Athletics check to open, and another DC 15
+Athletics check to lower it quietly. If either check is failed, the door falls
+with a loud booming sound.
 
 The cellar is also home to a tribe of ratlings, who snuck in to steal from the
 pantry and stayed. They are constantly moving around, trying to not get too far
