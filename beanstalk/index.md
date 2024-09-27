@@ -212,7 +212,12 @@ Encounters: Tom, Tina, Servants, Mildred
 Locked, only key is around Tom's neck. The lock is spelled, if someone tries to
 force it or pick it, it begins to scream (DC 15 to notice, DC 15 to dispell).
 
-Where Tom stores his wealth: mostly cloudsilver, also gems and gold. Total worth is 10,000 GP.
+Contents:
+
+- Cloudsilver: 100 lbs (10,000 gp)
+- Golden Goose Eggs: 2d12
+  - Each weighs 6lbs (so worth 300gp)
+- Varous Gems (1000 gp)
 
 Encounters: Tom, Mildred
 
