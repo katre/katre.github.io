@@ -43,6 +43,17 @@ The stalk is roughly divided in thirds:
 1. [Treant](https://a5e.tools/node/1804) [CR 9]
 1. Roll twice and combine
 
+### Non-combat ideas
+
+Mix these in randomly with the above (or don't).
+
+1. Medicinal Flowers (can spend an hour and harvest 100gp worth)
+2. Rainstorm
+3. No leaves to climb
+4. Mushrooms - contact poison
+5. [Corpse Plant Stench](https://a5e.tools/node/3894)
+6. [Sticky webs](https://a5e.tools/node/3002)
+
 ## Phase 2: The Cloud Fields
 
 Upon climbing through the clouds (which are wet and clammy cold), the cloud
